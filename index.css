@@ -62,11 +62,12 @@ p {
 * {box-sizing:border-box}
 
 .slideback {
-  max-width: 1000px;
+  max-width: 1280px;
   max-height: 600px;
   padding: 1px;
   position: relative;
   margin: auto;
+  align-self: center;
 }
 
 .slideshow-con {
@@ -78,7 +79,7 @@ p {
 
 .slides-fade {
   display: block;
-  align-items: center;
+  align-self: center;
 }
 
 .prev, .next {
@@ -94,6 +95,7 @@ p {
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
+  align-self: center;
 }
 
 .next {
