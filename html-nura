@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+    <title>Codey</title>
+  </head>
+  <header>
+    <h1 class="back" alt="Hello"><center><div class="head"><h2 class="oho">Codey</h2></div></center></h1>
+  </header>
+  <body>
+  <nav>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <div class="topnav" id="myTopnav" style="text-align:center;">
+      <a href="#home" >Home</a>
+      <a href="quiz.html">Game</a>
+      <a href="info.html" class="activa">Information</a>
+      <a href="about.html">About Us</a>
+    </div>
+  </nav>
+
+
+  <div class="bodi">
+  	<div class="slideback">
+    	<h1><center>Information</center></h1>
+      <h4><center>This is the information page where you will find everything you need to gain more understanding on each cantidate. You will find links under each cantidate with more information.</center></h4>
+      <div class = "container">
+        <figure>
+          <img src= https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQwODQ0Nzc0MjIyNDczMDA2/joe-biden-official-portrait_1600jpg.jpg width="200" height="200">
+          <figcaption><center>Joe Biden<center></figcaption>
+        </figure>
+        <figure>
+          <img src=https://s3.amazonaws.com/womencount/app/uploads/2018/12/06182953/29497425_10155616515548687_366622635037745281_n-1-300x300.jpg width="200" height="200">
+          <figcaption><center>Elizabeth Warren<center></figcaption>
+        </figure>
+        <figure>
+          <img src=https://2020candidatewatch.org/wp-content/uploads/sites/3/2018/10/kamala-harris-headshot-300x300.jpg  width="200" height="200">
+          <figcaption><center>Kamala Harris<center></figcaption>
+        </figure>
+
+      </div>
+
+      <div class = "container">
+
+        <figure>
+          <img src=https://www.peaceaction.org/cms/assets/uploads/2018/01/O000170-300x300.jpg width="200" height="200">
+          <figcaption><center>Beto O’Rourke<center></figcaption>
+        </figure>
+        <figure>
+          <img src=https://factceleb.com/data/biography/1555426731.9271.png width="200" height="200">
+          <figcaption><center>Pete Buttigieg<center></figcaption>
+        </figure>
+
+        <figure>
+          <img src=https://images.sxsw.com/EQXCyp46dwaDasfyVvw4-S5PWYU=/1088x493:3563x2968/300x0/images.sxsw.com/48/a1d44321-1db9-4d3f-8dca-2e3dc9b7b9f0/pcid-548896 width="200" height="200">
+          <figcaption><center>Andrew Yang<center></figcaption>
+        </figure>
+      </div>
+
+
+        <div class= "container">
+          <figure>
+          <img src=http://www.issues2000.org/Bill_Weld.jpg width="200" height="200">
+          <figcaption><center>Bill Weld<center></figcaption>
+          </figure>
+
+          <figure>
+          <img src=https://www.famousbirthdays.com/faces/klobuchar-amy-image.jpg width="200" height="200">
+          <figcaption><center>Amy Klobuchar<center></figcaption>
+          </figure>
+          <figure>
+          <img src=http://cdn02.cdn.justjared.com/wp-content/uploads/headlines/2016/10/donald-trump-gives-impromptu-press-conference.jpg width="200" height="200">
+          <figcaption><center>Donald Trump<center></figcaption>
+          </figure>
+          </div>
+
+          <div class= "container">
+            <figure>
+              <img src=https://122g2g321ipu7384u15dtr81-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/THUMB_Cory-Booker.jpg width="200" height="200">
+              <figcaption><center>Cory Booker<center></figcaption>
+            </figure>
+            <figure>
+              <img src=https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTI5ODcyMjQ1NDQ2MjA5NTA2/bernie-sanders-official-senate-photojpg.jpg width="200" height="200">
+              <figcaption><center>Bernie Sanders<center></figcaption>
+            </figure>
+          </div>
+
+
+    </div>
+  </div>
+  </body>
+  <script src="index.js"></script>
+</html>
