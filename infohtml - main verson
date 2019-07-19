@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="infocss.css">
+    <title>Codey</title>
+  </head>
+  <header>
+    <h1 class="back" alt="Hello"><center><div class="head"><h2 class="oho">Codey</h2></div></center></h1>
+  </header>
+  <body>
+  <nav>
+    <link rel="stylesheet" href="infocss.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <div class="topnav" id="myTopnav" style="text-align:center;">
+      <a href="homehtml.html" >Home</a>
+      <a href="gameshtml.html">Game</a>
+      <a href="infohtml.html" class="activa">Information</a>
+      <a href="aboutmehtml.html">About Us</a>
+    </div>
+  </nav>
+
+
+  <div class="bodi">
+  	<div class="slideback">
+      <br>
+    	<div class = "infos"><strong><center>Information</center></strong></div>
+      <h4 class = "info"><center>This is the information page where you will find everything you need to gain more understanding on each cantidate.<br>You will find links under each cantidate with more information.</center></h4>
+      <h5 class = "info"><center>To learn more about each cantidate click the on the issues link below. On the issues shows you each cantidate what party they are in and their views on international, domestic, economic, and social issues.</center></h5>
+      <figure>
+        <center><a class = "ontheissues" href = "https://www.ontheissues.org/default.htm" >On The Issues ></a></center>
+      </figure>
+
+      <div class = "container">
+          <figure>
+            <div class = "overthing" >
+            <img src= "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQwODQ0Nzc0MjIyNDczMDA2/joe-biden-official-portrait_1600jpg.jpg" width = "200" height = "200">
+            <div class="overlay">
+            <div class="text">Hello World</div>
+            </div>
+          </div>
+            <a class = "capfig" href = "https://go.joebiden.com/page/s/join-our-campaign-a-gs-2?source=om_gs_officialcampaign_acq_general&subsource=om&gclid=Cj0KCQjw1MXpBRDjARIsAHtdN-3H3kP2N3z6zT2bNLjPa6OXtaVcKmD3YO2H6PSoxQmLcovSHa1UI9EaAn6HEALw_wcB&utm_expid=.5q0__QLaQ9md7od4e-YUbg.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F" class = "fig">
+            <figcaption ><center>Joe Biden<center></figcaption>
+            </a>
+            </figure>
+    <!-- next person -->
+            <figure>
+              <div class = "overthing" >
+                <img src="https://122g2g321ipu7384u15dtr81-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/THUMB_Cory-Booker.jpg" width="200" height="200">
+              <div class="overlay">
+              <div class="text">Hello World</div>
+              </div>
+            </div>
+            <a class = "capfig" href = "https://secure.actblue.com/donate/cory2020-gsearch-dd?utm_source=g&utm_medium=om&utm_campaign=dd&utm_content=20190516_403-dd-launch-search&refcode=om_g_dd_20190516_403-dd-launch-search_name_cfpci&gclid=Cj0KCQjw1MXpBRDjARIsAHtdN-0xSs9IIXzNiCjFfNwgXhC8uHg0cHPWmcZoDnENzk8WEHN7wEnibvgaAr6FEALw_wcB" class = "fig">
+            <figcaption ><center>Cory Booker<center></figcaption>
+            </a>
+            </figure>
+        <!-- next person -->
+
+            <figure>
+                <div class = "overthing" >
+                  <img src=https://factceleb.com/data/biography/1555426731.9271.png width="200" height="200">
+                <div class="overlay">
+                <div class="text">Hello World</div>
+                </div>
+              </div>
+              <a  class = "capfig"href = "https://go.peteforamerica.com/today/?gclid=Cj0KCQjw1MXpBRDjARIsAHtdN-3yOxcm7-bSe7SsfeIlmKqZCu1MZ1aHKw-9euIP7VDpvSJ-ZTBy5IoaAu00EALw_wcB" class = "fig">
+              <figcaption><center>Pete Buttigieg<center></figcaption>
+              </figure>
+              </a>
+          </div>
+
+      <div class = "container">
+        <!-- new person -->
+            <figure>
+            <div class = "overthing" >
+              <img src=https://2020candidatewatch.org/wp-content/uploads/sites/3/2018/10/kamala-harris-headshot-300x300.jpg  width="200" height="200">
+            <div class="overlay">
+            <div class="text">Hello World</div>
+            </div>
+          </div>
+          <a class = "capfig" href = "https://action.kamalaharris.org/sign/kdh_ads_190625_economy_sitelink_search/?source=ads_search_190625_%2Bpresidential%20%2Bkamala_sl_356198046934&gclid=Cj0KCQjw1MXpBRDjARIsAHtdN-3KsSzGh7f_du275cqC4RO9n1_y7zwUl_ozMmGflcXsWoshS0IwKQsaAhHbEALw_wcB" class = "fig">
+          <figcaption ><center>Kamala Harris<center></figcaption>
+          </figure>
+        </a>
+  <!-- next person       -->
+      <figure>
+        <div class = "overthing" >
+          <img src=https://www.famousbirthdays.com/faces/klobuchar-amy-image.jpg width="200" height="200">
+        <div class="overlay">
+        <div class="text">Hello World</div>
+        </div>
+      </div>
+      <a class = "capfig" href = "https://takeaction.amyklobuchar.com/page/s/ads-gs-us-bt-launch?gclid=Cj0KCQjw1MXpBRDjARIsAHtdN-17iP0zi4LUV0YGwXAzs4D7cjgoHKkZL1vdZ-LcNIY31YJ4O7RAlw0aAoHEEALw_wcB" class = "fig">
+      <figcaption ><center>Amy Klobuchar<center></figcaption>
+      </figure>
+      </a>
+      <figure>
+        <div class = "overthing" >
+          <img src=https://www.peaceaction.org/cms/assets/uploads/2018/01/O000170-300x300.jpg width="200" height="200">
+        <div class="overlay">
+        <div class="text">Hello World</div>
+        </div>
+      </div>
+
+      <a class = "capfig" href = "https://betoorourke.com/" class = "fig">
+      <figcaption ><center>Beto O’Rourke<center></figcaption>
+      </figure>
+      </a>
+      </div>
+
+
+        <div class= "container">
+        <figure>
+          <div class = "overthing" >
+            <img src=https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTI5ODcyMjQ1NDQ2MjA5NTA2/bernie-sanders-official-senate-photojpg.jpg width="200" height="200">
+          <div class="overlay">
+          <div class="text">Hello World</div>
+          </div>
+        </div>
+        <a class = "capfig" href = "https://act.berniesanders.com/signup/ads_gs_personal_endorse?source=ads-gs-190709-evergreen_acq-natl-brandedkeys-responsive&gclid=Cj0KCQjw1MXpBRDjARIsAHtdN-3RainP5DwQCMq3k2eKSstrVBwuX-q5xfWjRBJlATjCD6TsJ2dO_QsaAgKLEALw_wcB" class = "fig">
+        <figcaption ><center>Bernie Sanders<center></figcaption>
+        </figure>
+        </a>
+        <figure>
+          <div class = "overthing" >
+            <img src=http://cdn02.cdn.justjared.com/wp-content/uploads/headlines/2016/10/donald-trump-gives-impromptu-press-conference.jpg width="200" height="200">
+          <div class="overlay">
+          <div class="text">Hello World</div>
+          </div>
+        </div>
+        <a class = "capfig" href = "https://secure.donaldjtrump.com/donate/?utm_medium=ad&utm_source=dp_googlesearch&utm_campaign=20190715_na_trumpgenerickws_djt_djtfund_ocpmypur_cm_audience0134_na_copy01379_us_b_18-99_gsn_all_na_lp0336_fund_conversion_search_na_na_na&utm_content=fun&gclid=Cj0KCQjw1MXpBRDjARIsAHtdN-3a3jzoa10Lz2hhGlEeGZfhJ-SLpaHyp3dCSZHwZV3OIhVO08s1sroaAhCuEALw_wcB" class = "fig">
+        <figcaption ><center>Donald Trump<center></figcaption>
+        </figure>
+        </a>
+        <figure>
+          <div class = "overthing" >
+            <img src=https://s3.amazonaws.com/womencount/app/uploads/2018/12/06182953/29497425_10155616515548687_366622635037745281_n-1-300x300.jpg width="200" height="200">
+          <div class="overlay">
+          <div class="text">Hello World</div>
+          </div>
+        </div>
+        <a class = "capfig" href = "https://elizabethwarren.com/?&mkwid=so1a1I3xB|pcrid|367872843764|pkw|elizabeth%20warren|pmt|p|pdv|c|slid||product||pgrid|71352540229|ptaid|kwd-171777258|&pgrid=71352540229&ptaid=kwd-171777258&source=WFP2019-LB-GS-NAT&subsource=GS-71352540229-elizabeth%20warren-p-367872843764&utm_source=GS&utm_campaign=WFP2019-LB-GS-NAT&utm_term=Elizabeth%20warren-367872843764&gclid=Cj0KCQjw1MXpBRDjARIsAHtdN-0H2ON-tEm4RMIhK4CqVwLzb1wIETnO-vV3PLKTywNXurivVoExRxYaAp45EALw_wcB" class = "fig">
+        <figcaption ><center>Elizabeth Warren<center></figcaption>
+        </figure>
+        </a>
+        </div>
+
+        <div class= "container">
+        <figure>
+          <div class = "overthing" >
+            <img src=http://www.issues2000.org/Bill_Weld.jpg width="200" height="200">
+          <div class="overlay">
+          <div class="text">Hello World</div>
+          </div>
+        </div>
+        <a class = "capfig" href = "https://www.weld2020.org/" class = "fig">
+        <figcaption ><center>Bill Weld<center></figcaption>
+        </figure>
+        </a>
+        <figure>
+          <div class = "overthing" >
+            <img src=https://images.sxsw.com/EQXCyp46dwaDasfyVvw4-S5PWYU=/1088x493:3563x2968/300x0/images.sxsw.com/48/a1d44321-1db9-4d3f-8dca-2e3dc9b7b9f0/pcid-548896 width="200" height="200">
+          <div class="overlay">
+          <div class="text">Hello World</div>
+          </div>
+        </div>
+        <a class = "capfig" href = "https://www.yang2020.com/meet-andrew/" class = "fig">
+        <figcaption ><center>Andrew Yang<center></figcaption>
+        </figure>
+        </a>
+        </div>
+
+
+
+    </div>
+  </div>
+  </body>
+  <script src="index.js"></script>
+</html>
