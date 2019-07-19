@@ -6,9 +6,10 @@
 
 .bts{
   font-family: 'Righteous', cursive;
-  font-size: 200%;
+  font-size: 230%;
   margin-left: 200px;
-  color: #1ba1bf;
+  color:#279EB2;
+;
 }
 
 .vid{
@@ -19,16 +20,181 @@
 
 .atc{
   font-family: 'Righteous', cursive;
-  font-size: 200%;
-  color: #1ba1bf;
+  font-size: 230%;
+  color:#279EB2;
+;
   margin-left: 200px;
+}
+
+.allprofiles{
+  display: flex;
+justify-content: center;
+}
+
+hr {
+border:none;
+border-top:2px dotted #279EB2;
+width: 75%;
+height: 3px;
+color:#279EB2 ;
+margin-right: auto;
+margin-left: auto;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+.hra {
+border:none;
+border-top:2px dotted #279EB2;
+width: 75%;
+height: 3px;
+color:#279EB2 ;
+margin-right: auto;
+margin-left: auto;
+
+margin-bottom: 50px;
 }
 
 
 
+/* ANUSHA PROFILEEE */
+.anusha_photo{
+  margin-left: 200px;
+  float: left;
+  width: 24%;
+}
+
+.anusha_profile{
+  float:left;
+  display: inline;
+  font-family: 'Abel', sans-serif;
+  margin-left: 100px;
+
+}
+
+.anusha_name{
+    font-family: 'Righteous', cursive;
+    margin-left: 50px;
+    font-size: 150%;
+    margin-bottom: 30px;
+}
+
+.anusha_descrip{
+  font-family: 'Abel', sans-serif;
+  margin-left: 620px;
+  font-size: 150%;
+}
+
+/*SARA PROFILE */
+.sara_photo{
+  margin-left: 200px;
+  float:left;
+  width: 24%;
+}
+
+.sara_profile{
+  display: inline;
+  font-family: 'Abel', sans-serif;
+  float: left;
+  margin-top: 70px;
+
+}
+
+.sara_name{
+    font-family: 'Righteous', cursive;
+    margin-left: 50px;
+    font-size: 150%;
+}
+
+.sara_descrip{
+  font-family: 'Abel', sans-serif;
+  margin-left: 620px;
+  font-size: 150%;
+}
+
+/*GWEN PROFILE*/
+.gwen_photo{
+  margin-left: 200px;
+  float:left;
+  width: 24%;
+}
+
+.gwen_profile{
+  display: inline;
+  font-family: 'Abel', sans-serif;
+  float: left;
+  margin-top: 70px;
+
+}
+
+.gwen_name{
+    font-family: 'Righteous', cursive;
+    margin-left: 50px;
+    font-size: 150%;
+}
+
+.gwen_descrip{
+  font-family: 'Abel', sans-serif;
+  margin-left: 620px;
+  font-size: 150%;
+}
+
+/*HANNAH PROFILE*/
+.hannah_photo{
+  margin-left: 200px;
+  float:left;
+  width: 24%;
+}
+
+.hannah_profile{
+  display: inline;
+  font-family: 'Abel', sans-serif;
+  float: left;
+  margin-top: 70px;
+
+}
+
+.hannah_name{
+    font-family: 'Righteous', cursive;
+    margin-left: 50px;
+    font-size: 150%;
+}
+
+.hannah_descrip{
+  font-family: 'Abel', sans-serif;
+  margin-left: 620px;
+  font-size: 150%;
+}
+
+/*Nura PROFILE*/
+.nura_photo{
+  margin-left: 200px;
+  float:left;
+  width: 22%;
+}
+
+.nura_profile{
+  display: inline;
+  font-family: 'Abel', sans-serif;
+  float: left;
+  margin-top: 70px;
+
+}
+
+.nura_name{
+    font-family: 'Righteous', cursive;
+    margin-left: 50px;
+    font-size: 150%;
+}
+
+.nura_descrip{
+  font-family: 'Abel', sans-serif;
+  margin-left: 620px;
+  font-size: 150%;
+}
 
 
-
+.hline { width:100%; height:1px; background: #fff }
 html {
   background-image: url(https://img.freepik.com/free-photo/black-white-bamboo-surface-merge-background_7182-2053.jpg?size=626&ext=jpg);
   margin-left: 15px;
@@ -49,7 +215,7 @@ html {
 
 .bodi {
   background-color: #eeeeee;
-  height:1000px;
+  height:2500px;
 }
 
 h1 {
