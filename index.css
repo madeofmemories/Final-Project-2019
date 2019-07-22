@@ -14,10 +14,18 @@ html {
 .oho {
   font-family: 'Righteous', cursive;
   color: #ffffff;
+  font-size: 200%;
+
+}
+
+.answer{
+  font-family: 'Abel', sans-serif;
+  font-size: 100%;
 }
 
 .bodi {
   background-color: #eeeeee;
+  height: 1300px;
 }
 
 h1 {
@@ -142,4 +150,65 @@ p {
 .writing {
   font-size: 20px;
   font-family: 'Abel', sans-serif;
+}
+
+/* footer{
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height: 1000%;
+   background-color:#279EB2;
+   color:#279EB2
+   text-align: center;
+   padding: 40px;
+} */
+
+
+.hraa {
+border:none;
+border-top:3px solid 	#207997;
+width: 90%;
+height: 6px;
+color:	#207997;
+margin-right: auto;
+margin-left: auto;
+
+margin-bottom: 50px;
+}
+
+.footer{
+  display: inline;
+font-family: 'Abel', sans-serif;
+float: left;
+margin-top: 60px;
+}
+
+.bottomline{
+  border:none;
+  border-top:2px dotted 	#207997;
+  width: 90%;
+  height: 6px;
+  color:	#207997;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.footericon{
+
+  margin-left: 550px;
+  float:left;
+  width: 10%;
+
+}
+
+
+.logoo{
+  color: #207997;
+  font-size: 250%;
+  font-family: 'Righteous', cursive;
+margin-left: 50px;
+margin-top: 20px;
+
+
 }
