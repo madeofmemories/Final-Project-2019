@@ -1,0 +1,405 @@
+.capnav{
+  font-family: 'Righteous', cursive;
+  font-size: 260%;
+
+}
+
+.bts{
+  font-family: 'Righteous', cursive;
+  font-size: 230%;
+  margin-left: 200px;
+  color:#279EB2;
+;
+}
+
+.vid{
+   margin: 0 auto;
+    width: 650px;
+    height: 350px;
+}
+
+.atc{
+  font-family: 'Righteous', cursive;
+  font-size: 230%;
+  color:#279EB2;
+;
+  margin-left: 200px;
+}
+
+.allprofiles{
+  display: flex;
+justify-content: center;
+}
+
+hr {
+border:none;
+border-top:2px dotted #279EB2;
+width: 75%;
+height: 3px;
+color:#279EB2 ;
+margin-right: auto;
+margin-left: auto;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+.hrh {
+border:none;
+border-top:2px dotted #279EB2;
+width: 75%;
+height: 3px;
+color:#279EB2 ;
+margin-right: auto;
+margin-left: auto;
+
+margin-bottom: 50px;
+}
+
+
+
+/* ANUSHA PROFILEEE */
+.anusha_photo{
+  margin-left: 150px;
+  float: left;
+  width: 26%;
+  margin-top: 50px;
+}
+
+.anusha_profile{
+  float:left;
+  display: inline;
+  font-family: 'Abel', sans-serif;
+  margin-left: 70px;
+
+}
+
+.anusha_name{
+    font-family: 'Righteous', cursive;
+    margin-left: 40px;
+    font-size: 150%;
+    margin-bottom: 30px;
+}
+
+.anusha_descrip{
+  font-family: 'Abel', sans-serif;
+  margin-left: 560px;
+  font-size: 130%;
+}
+
+/*SARA PROFILE */
+.sara_photo{
+  margin-left: 200px;
+  float:left;
+  width: 24%;
+}
+
+.sara_profile{
+  display: inline;
+  font-family: 'Abel', sans-serif;
+  float: left;
+  margin-top: 70px;
+
+}
+
+.sara_name{
+    font-family: 'Righteous', cursive;
+    margin-left: 50px;
+    font-size: 150%;
+}
+
+.sara_descrip{
+  font-family: 'Abel', sans-serif;
+  margin-left: 620px;
+  font-size: 150%;
+}
+
+/*GWEN PROFILE*/
+.gwen_photo{
+  margin-left: 200px;
+  float:left;
+  width: 24%;
+}
+
+.gwen_profile{
+  display: inline;
+  font-family: 'Abel', sans-serif;
+  float: left;
+  margin-top: 70px;
+
+}
+
+.gwen_name{
+    font-family: 'Righteous', cursive;
+    margin-left: 50px;
+    font-size: 150%;
+}
+
+.gwen_descrip{
+  font-family: 'Abel', sans-serif;
+  margin-left: 620px;
+  font-size: 150%;
+}
+
+/*HANNAH PROFILE*/
+.hannah_photo{
+  margin-left: 200px;
+  float:left;
+  width: 24%;
+}
+
+.hannah_profile{
+  display: inline;
+  font-family: 'Abel', sans-serif;
+  float: left;
+  margin-top: 70px;
+
+}
+
+.hannah_name{
+    font-family: 'Righteous', cursive;
+    margin-left: 50px;
+    font-size: 150%;
+}
+
+.hannah_descrip{
+  font-family: 'Abel', sans-serif;
+  margin-left: 620px;
+  font-size: 150%;
+}
+
+/*Nura PROFILE*/
+.nura_photo{
+  margin-left: 200px;
+  float:left;
+  width: 22%;
+}
+
+.nura_profile{
+  display: inline;
+  font-family: 'Abel', sans-serif;
+  float: left;
+  margin-top: 70px;
+
+}
+
+.nura_name{
+    font-family: 'Righteous', cursive;
+    margin-left: 50px;
+    font-size: 150%;
+}
+
+.nura_descrip{
+  font-family: 'Abel', sans-serif;
+  margin-left: 620px;
+  font-size: 150%;
+}
+
+
+.hline { width:100%; height:1px; background: #fff }
+html {
+  background-image: url(https://img.freepik.com/free-photo/black-white-bamboo-surface-merge-background_7182-2053.jpg?size=626&ext=jpg);
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.back {
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/back_pic/03/68/74/1657b3cea5bb265.jpg);
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.oho {
+  font-family: 'Righteous', cursive;
+  color: #ffffff;
+}
+
+
+.bodii {
+  background-color: #eeeeee;
+    height: 2900px;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+}
+
+h2 {
+  font-family: 'Righteous', cursive;
+  text-align: center;
+}
+
+p {
+  font-family: 'Righteous', cursive;
+  text-align: center;
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+  display: flex;
+}
+.topnav a {
+  float: left;
+  display: flex;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: 'Righteous', cursive;
+  justify-content: space-around;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.activa {
+  color: white;
+  background-color: #868687;
+}
+
+* {box-sizing:border-box}
+
+.slideback {
+  max-width: 1280px;
+  max-height: 600px;
+  padding: 1px;
+  position: relative;
+  margin: auto;
+  align-self: center;
+}
+
+.slideshow-con {
+  max-width: 1280px;
+  position: relative;
+  margin: auto;
+  align-self: center;
+}
+
+.slides-fade {
+  display: block;
+  align-self: center;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  align-self: center;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.dot {
+  cursor: pointer;
+  height: 10px;
+  width: 10px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+.writing {
+  font-size: 20px;
+  font-family: 'Abel', sans-serif;
+}
+
+
+
+.hraa {
+  border:none;
+  border-top:2px dotted 	#207997;
+width: 90%;
+height: 6px;
+color:	#207997;
+margin-right: auto;
+margin-left: auto;
+
+margin-bottom: 50px;
+}
+
+/* .footer{
+  display: inline;
+font-family: 'Abel', sans-serif;
+float: left;
+margin-top: 60px;
+} */
+
+
+
+.footer{
+  display: inline;
+font-family: 'Abel', sans-serif;
+float: left;
+margin-top: 60px;
+}
+
+.bottomline{
+  border:none;
+  border-top:2px dotted 	#207997;
+  width: 90%;
+  height: 6px;
+  color:	#207997;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.footericon{
+
+  margin-left: 550px;
+  float:left;
+  width: 10%;
+
+}
+
+
+.logoo{
+  color: #207997;
+  font-size: 250%;
+  font-family: 'Righteous', cursive;
+margin-left: 50px;
+margin-top: 20px;
+
+
+}
