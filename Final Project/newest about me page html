@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="aboutmecss.css">
+    <title>Quizolotics</title>
+  </head>
+  <header>
+    <h1 class="back" alt="Hello"><center><div class="head"><h2 class="oho">Quizolotics</h2></div></center></h1>
+  </header>
+  <nav>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="aboutmecss.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <div class="topnav" id="myTopnav" style="text-align:center;">
+      <!-- <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a> -->
+      <a href="homehtml.html">Home</a>
+      <a href="gameshtml.html">Game</a>
+      <a href="info.html">Information</a>
+      <a href="aboutmehtml.html"  class="activa">About Us</a>
+    </div>
+  </nav>
+  <body>
+    <div class="bodii">
+      <br>
+      <div class = "capnav"><center><strong>About Us</strong></center></div>
+      <div class = "bts">Behind the Makings</div>
+      <br>
+        <center><iframe class = "vid" src="https://www.youtube.com/embed/W2kXmexjolk"></iframe></center>
+        <br>
+        <div class = "atc">About the Creators:</div>
+        <br>
+        <br>
+        <div class = "allprofiles">
+          <div class = "anusha_profile">
+            <img class = "anusha_photo" src = "DSC_0241.jpg">
+            <strong class = "anusha_name">Anusha Palanivelu</strong>
+            <br>
+            <br>
+            <div class = "anusha_descrip">
+              Anusha Palanivelu, a 16 year old living in San Ramon, has a talent in voicing<br>
+              her unique and thoughful opinions, motivated   by her remarkable interest to  <br>
+              interact with her peers. She contributed greatly to this project through her <br>
+              in-depth research on the presidential candidates, following with presenting the <br>
+              various views on policies and helping write the game script. Anusha was introduced<br>
+              to the world of code from the event Hackathon, eager to manipulate something<br>
+              to turn it into something new. She joined Girls Who Code and is really grateful<br>
+              for the experience she recieve on the exposure for coding.<br>
+             <br><br>
+              <strong>“Try everything you never know what could happen” - Anusha Palanivelu</strong><br>
+
+            </div>
+            <br>
+            <hr>
+            <div class = "gwen_profile">
+              <img class = "gwen_photo" src = "IMG_1685 (3).jpg">
+              <strong class = "gwen_name">Gwen Patwardhan</strong>
+              <br>
+              <br>
+              <div class = "gwen_descrip">
+                Gwendolyn Patwardhan, a 16 year old living in San Jose, greatly contributed to this project by<br>
+                designing and illustrating the characters for our game. Additionally, she extensively worked on  <br>
+                the research of the presidential candidates, the policies and scriptwriting. Her contribution to this<br>
+                project has greatly impacted the condition of this project. Gwen’s first experience with coding<br>
+                was in 4th grade when she found a course on Khan Academy and decided she wanted to try it<br>
+                out. At first, when she started she really enjoyed it but after a while, she got bored and stopped.<br>
+                But then after her sister participated in Girls Who Code, she decided she wanted to do the same<br>
+                and try it out. Her advice for everyone is to try everything because especially for coding you can<br>
+                combine it with almost anything. This experience has taught Gwen amazing sisterhood and a lot<br>
+                more about coding.<br>
+                <br><br>
+                <strong>“Try everything with an open mind but don't be afraid to fail” - Gwendolyn Patwardhan</strong><br>
+              </div >
+              <div class = "hannah_profile">
+                  <!-- <div class = "hraa"></div> -->
+                  <div class = "hrh"></div>
+                <img class = "hannah_photo" src = "IMG_2026.jpg">
+                <strong class = "hannah_name">Hannah Zhuang</strong>
+                <br>
+                <br>
+                <div class = "hannah_descrip">
+                  Hannah Zhuang, an upcoming junior in highschool living in Richmond, her curiosity for the<br>
+                  fascinating world of technology led her to explore this complex network in hopes of contributing<br>
+                  her own unique ideas. She loves to bring her bubbly personality into the conversation,<br>
+                  spreading enthusiasm among her peers, and challenging herself to develop various skills to<br>
+                  improve her work ethic. Hannah contributed to the project by partaking in the web development<br>
+                  team, helping code and design the pages for the project website. She was introduced to the<br>
+                  GWC program through school, finding that this was the perfect opportunity to discover the<br>
+                  various career paths to pursue.This program has left Hannah was an amazing sisterhood and<br>
+                  the determination to find her burning passion to create.<br>
+                  <br><br>
+                  <strong>"Don't be afraid to explore if you're curious"- Hannah Zhuang</Strong><br>
+                </div>
+                <div class = "nura_profile">
+                      <hr class = "hrh">
+                  <img class = "nura_photo" src = "nurapic.jpg">
+                  <strong class = "nura_name">Nura Sinan</strong>
+                  <br>
+                  <br>
+                <div class = "nura_descrip">
+                  Nura Sinan is a 16 year from Danville. Her contributions to the development of the website and<br>
+                  the script really ensured the team worked as efficiently as possible. Her first encounter with<br>
+                  coding was in 7th grade, the experience left a sour impression on her. However, when she<br>
+                  learned of Girls Who Code years later, she decided to give it another shot. Though she endured<br>
+                  her fair share of trials and tribulations throughout the program, she developed strong bonds with<br>
+                  her peers and her love for coding grew. She considers herself lucky for being able to experience<br>
+                  a program that nurtured such a healthy environment to learn more about the field of computer<br>
+                  science and her own capabilities.
+                  <br><br>
+                  <strong>"Don't give up even if you really want to"- Nura Sinan</Strong><br>
+
+                </div>
+                <div class = "sara_profile">
+                        <hr class = "hrh">
+                  <img class = "sara_photo" src = "IMG_1682.JPG">
+                  <strong class = "sara_name">Sara Wu</strong>
+                  <br>
+                  <br>
+                <div class = "sara_descrip">
+                  Sara Wu, an incoming high school Junior from Concord, lent her talents as a proficient coder to<br>
+                  the construction of the game and the basic structuring of the website. She has always <br>
+                  possessed an intrest in the field of computer science and her skills for communication helped to<br>
+                  organize the infrastructure of the project. Her first experience with coding was in school with <br>
+                  programs such as Code.org and Scratch, where she further explored her love for video games<br>
+                  and how they were made. She first learned of Girls Who code through her teacher and a friend’s<br>
+                  sister. She’s thankful for the program exposing her to the experiences of working a 9 to 5 and<br>
+                  the ideal workplace full of a diversity of backgrounds and ideas.
+                  <br><br>
+                  <strong>“Do what you love and don’t be afraid to do it” -Sara Wu</strong></br>
+
+
+                </div>
+                <br>
+              </div>
+          </div>
+
+          <br style = "line-height:65">
+
+                  <!-- FOOTER -->
+          <div class = "hraaa">
+            <div class = "footer">
+            <img class = "footericon" src = "logo.png">
+              <div class = "logoo" >
+                <strong>Quizolotics</strong>
+              </div>
+            </div>
+          </div>
+              <br style = "line-height:10">
+            <div class = "bottomline"></div>
+
+
+
+
+
+    </div>
+  </body>
+    <p>
+  <script src="index.js"></script>
+</html>
