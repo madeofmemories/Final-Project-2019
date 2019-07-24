@@ -69,7 +69,7 @@ html {
 
 .bodii {
   background-color: #eeeeee;
-  height:1300px;
+  height:1060px;
 }
 
 h1 {
@@ -244,7 +244,7 @@ margin-top: 60px;
 
 .footericon{
 
-  margin-left: 550px;
+  margin-left: 400px;
   float:left;
   width: 10%;
 
@@ -259,4 +259,9 @@ margin-left: 50px;
 margin-top: 20px;
 
 
+}
+
+
+header{
+  font-size: 12px;
 }

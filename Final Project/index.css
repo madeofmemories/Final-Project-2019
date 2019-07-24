@@ -25,7 +25,7 @@ html {
 
 .bodi {
   background-color: #eeeeee;
-  height: 1300px;
+  height: 945px;
 }
 
 h1 {
@@ -211,4 +211,9 @@ margin-left: 50px;
 margin-top: 20px;
 
 
+}
+
+
+header{
+  font-size: 12px;
 }

@@ -59,7 +59,7 @@ margin-bottom: 50px;
 
 /* ANUSHA PROFILEEE */
 .anusha_photo{
-  margin-left: 150px;
+  margin-left: 130px;
   float: left;
   width: 26%;
   margin-top: 50px;
@@ -88,7 +88,7 @@ margin-bottom: 50px;
 
 /*SARA PROFILE */
 .sara_photo{
-  margin-left: 200px;
+  margin-left: 130px;
   float:left;
   width: 24%;
 }
@@ -109,13 +109,13 @@ margin-bottom: 50px;
 
 .sara_descrip{
   font-family: 'Abel', sans-serif;
-  margin-left: 620px;
-  font-size: 150%;
+  margin-left: 530px;
+  font-size: 130%;
 }
 
 /*GWEN PROFILE*/
 .gwen_photo{
-  margin-left: 200px;
+  margin-left: 130px;
   float:left;
   width: 24%;
 }
@@ -136,13 +136,13 @@ margin-bottom: 50px;
 
 .gwen_descrip{
   font-family: 'Abel', sans-serif;
-  margin-left: 620px;
-  font-size: 150%;
+  margin-left: 530px;
+  font-size: 130%;
 }
 
 /*HANNAH PROFILE*/
 .hannah_photo{
-  margin-left: 200px;
+  margin-left: 130px;
   float:left;
   width: 24%;
 }
@@ -163,13 +163,13 @@ margin-bottom: 50px;
 
 .hannah_descrip{
   font-family: 'Abel', sans-serif;
-  margin-left: 620px;
-  font-size: 150%;
+  margin-left: 530px;
+  font-size: 130%;
 }
 
 /*Nura PROFILE*/
 .nura_photo{
-  margin-left: 200px;
+  margin-left: 130px;
   float:left;
   width: 22%;
 }
@@ -190,8 +190,8 @@ margin-bottom: 50px;
 
 .nura_descrip{
   font-family: 'Abel', sans-serif;
-  margin-left: 620px;
-  font-size: 150%;
+  margin-left: 530px;
+  font-size: 130%;
 }
 
 
@@ -217,7 +217,7 @@ html {
 
 .bodii {
   background-color: #eeeeee;
-    height: 2900px;
+    height: 2960px;
 }
 
 h1 {
@@ -358,14 +358,10 @@ margin-left: auto;
 margin-bottom: 50px;
 }
 
-/* .footer{
-  display: inline;
-font-family: 'Abel', sans-serif;
-float: left;
-margin-top: 60px;
-} */
 
-
+header{
+  font-size: 12px;
+}
 
 .footer{
   display: inline;
@@ -387,7 +383,7 @@ margin-top: 60px;
 
 .footericon{
 
-  margin-left: 550px;
+  margin-left: 440px;
   float:left;
   width: 10%;
 
@@ -402,4 +398,16 @@ margin-left: 50px;
 margin-top: 20px;
 
 
+}
+
+.hraaa {
+  border:none;
+  border-top:2px solid 	#207997;
+width: 90%;
+height: 6px;
+color:	#207997;
+margin-right: auto;
+margin-left: auto;
+
+margin-bottom: 50px;
 }

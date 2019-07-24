@@ -32,6 +32,11 @@ html {
   margin-right: 15px;
 }
 
+
+header{
+  font-size: 15px;
+}
+
 .back {
   background-image: url(https://png.pngtree.com/thumb_back/fh260/back_pic/03/68/74/1657b3cea5bb265.jpg);
   width: 100%;
@@ -46,7 +51,7 @@ html {
 
 .bodi {
   background-color: #eeeeee;
-  height: 1700px;
+  height: 1440px;
 }
 
 .infos{
@@ -331,7 +336,7 @@ margin-top: 60px;
 
 .footericon{
 
-  margin-left: 550px;
+  margin-left: 400px;
   float:left;
   width: 10%;
 
@@ -342,7 +347,7 @@ margin-top: 60px;
   color: #207997;
   font-size: 250%;
   font-family: 'Righteous', cursive;
-margin-left: 50px;
+margin-left: 30px;
 margin-top: 20px;
 
 
